@@ -1,0 +1,3 @@
+id=1, name=tanya, surname=ivanova, email=ivanova@mail.ru
+id=2, name=olya, surname=petrova, email=petrova@mail.ru
+id=3, name=sasha, surname=sidorova, email=sidorova@mail.ru

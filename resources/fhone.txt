@@ -1,0 +1,6 @@
+fhoneid=1, userid=1, fhone=375001234567
+fhoneid=2, userid=1, fhone=375121234567
+fhoneid=3, userid=1, fhone=375681234567
+fhoneid=4, userid=2, fhone=375231234567
+fhoneid=5, userid=2, fhone=375671234567
+fhoneid=6, userid=3, fhone=375981234567
