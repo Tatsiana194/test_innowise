@@ -1,0 +1,3 @@
+id=1, name=WRITER
+id=2, name=READER
+id=3, name=JOURNALIST
